@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
      <meta charset="utf-8">
-		
+	<title> New JavaScript Code on Note ++ </title>
 </head>
 <body>
 <p>I am writing my JS code</p>
