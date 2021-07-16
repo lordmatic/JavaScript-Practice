@@ -6,7 +6,7 @@
 	<title> New JavaScript Code on Note ++ </title>
 </head>
 <body>
-<p>I am writing my JS code</p>
+<p>I am writing my JS code (While loop).</p>
 
 	<script>
 		document.write("<i> Use of While loop </i>");
